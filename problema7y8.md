@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1>Veiculos</h1>
+  <h1>Vehiculos</h1>
 </div>
 
 ```dart
